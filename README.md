@@ -27,7 +27,7 @@ You can also execute iBeacon.py script directly. The args description is below:
 2. Arguments depends of first choice:
 
     For 0:  
-    e.g. iBeacon.py 0 "63 6F 3F 8F 64 91 4B EE 95 F7 D8 CC 64 A8 63 B5" 3000 4567
+    >e.g. iBeacon.py 0 "63 6F 3F 8F 64 91 4B EE 95 F7 D8 CC 64 A8 63 B5" 3000 4567
 
     - UID  
         * 16 Byte of two-HEX-character values  
@@ -39,7 +39,8 @@ You can also execute iBeacon.py script directly. The args description is below:
         * e.g. 4567  
 
     For 1:  
-    e.g.    iBeacon.py 1 "facebook$me" 1 0  
+    >e.g.    iBeacon.py 1 "facebook$me" 1 0  
+    
     mean    https//www.facebook.com/me
 
     - Url  
@@ -74,7 +75,7 @@ You can also execute iBeacon.py script directly. The args description is below:
         * e.g. 0  
     
     For 2:  
-    e.g. iBeacon.py 2 "11 22 33 44 55 66 77 88 99 00" "AA BB CC DD EE FF"
+    >e.g. iBeacon.py 2 "11 22 33 44 55 66 77 88 99 00" "AA BB CC DD EE FF"
 
     * nameID  
         * 10 Byte of two-HEX-character values
