@@ -2,12 +2,12 @@
         
 ###        To run script You must set up a few arguments:
 
-#####        1. Type of message to generate, possible options are:
+        1. Type of message to generate, possible options are:
             0: UUID + Major + Minor
             1: URL
             2: NameID + IstanceID
 
-#####        2. Arguments depends of first choice:
+        2. Arguments depends of first choice:
             For 0:
                 e.g. iBeacon.py 0 "63 6F 3F 8F 64 91 4B EE 95 F7 D8 CC 64 A8 63 B5" 3000 4567
 
