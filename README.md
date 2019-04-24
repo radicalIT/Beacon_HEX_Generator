@@ -1,6 +1,5 @@
 # Beacon_HEX_Generator
-Help info 
-        
+       
         To run script You must set up a few arguments:
 
         1. Type of message to generate, possible options are:
