@@ -1,11 +1,11 @@
 # Beacon_HEX_Generator
         
-##        To run script You must set up a few arguments:
+###        To run script You must set up a few arguments:
 
         1. Type of message to generate, possible options are:
-#            0: UUID + Major + Minor
-#            1: URL
-#            2: NameID + IstanceID
+####            0: UUID + Major + Minor
+####            1: URL
+####            2: NameID + IstanceID
 
         2. Arguments depends of first choice:
             For 0:
