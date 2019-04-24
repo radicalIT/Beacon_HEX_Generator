@@ -27,6 +27,7 @@ You can also execute iBeacon.py script directly. The args description is below:
 2. Arguments depends of first choice:
 
     For 0:  
+![alt text](https://github.com/radicalIT/Beacon_HEX_Generator/blob/master/imgs/uid.png "iBecaconUID")
     >e.g. iBeacon.py 0 "63 6F 3F 8F 64 91 4B EE 95 F7 D8 CC 64 A8 63 B5" 3000 4567
 
     - UID  
@@ -39,6 +40,7 @@ You can also execute iBeacon.py script directly. The args description is below:
         * e.g. 4567  
 
     For 1:  
+![alt text](https://github.com/radicalIT/Beacon_HEX_Generator/blob/master/imgs/url.png "iBecaconUrl")
     >e.g.    iBeacon.py 1 "facebook$me" 1 0  
     
     mean    https//www.facebook.com/me
@@ -84,6 +86,3 @@ You can also execute iBeacon.py script directly. The args description is below:
     * istanceID  
         * 6 Byte of two-HEX-character values
         * e.g. "AA BB CC DD EE FF"
-
-![alt text](https://github.com/radicalIT/Beacon_HEX_Generator/blob/master/imgs/url.png "iBecaconUrl")
-![alt text](https://github.com/radicalIT/Beacon_HEX_Generator/blob/master/imgs/uid.png "iBecaconUID")
