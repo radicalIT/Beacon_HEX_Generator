@@ -1,6 +1,6 @@
 # Beacon_HEX_Generator
         
-        **This** script can generate a Beacon HEX command like:
+        __This__ script can generate a Beacon HEX command like:
         hcitool -i hci0 cmd 0x08 0x0008 1E 02 01 06 03 03 AA FE 16 16 AA FE 00 00 61 62 63 64 
         And execute them in terminal to make our Raspberry Pi discoverable as Beacon.
 
