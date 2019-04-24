@@ -1,9 +1,9 @@
 # Beacon_HEX_Generator
         
-        This script can generate a Beacon HEX command like:
+        **This script can generate a Beacon HEX command like:
         hcitool -i hci0 cmd 0x08 0x0008 1E 02 01 06 03 03 AA FE 16 16 AA FE 00 00 61 62 63 64 
-        And execute them in terminal to make our Raspberry Pi discoverable as Beacon.
-        
+        And execute them in terminal to make our Raspberry Pi discoverable as Beacon.**
+
 ###        To run script You must set up a few arguments:
 
         1. Type of message to generate, possible options are:
@@ -13,7 +13,7 @@
 
         2. Arguments depends of first choice:
             For 0:
-                e.g. iBeacon.py 0 "63 6F 3F 8F 64 91 4B EE 95 F7 D8 CC 64 A8 63 B5" 3000 4567
+                **e.g. iBeacon.py 0 "63 6F 3F 8F 64 91 4B EE 95 F7 D8 CC 64 A8 63 B5" 3000 4567**
 
                 - UID
                     16 Byte of two-HEX-character values
