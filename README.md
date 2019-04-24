@@ -75,6 +75,7 @@ You can also execute iBeacon.py script directly. The args description is below:
         * e.g. 0  
     
     For 2:  
+![alt text](https://github.com/radicalIT/Beacon_HEX_Generator/blob/master/imgs/name.png "iBecaconName")
     >e.g. iBeacon.py 2 "11 22 33 44 55 66 77 88 99 00" "AA BB CC DD EE FF"
 
     * nameID  
@@ -84,6 +85,5 @@ You can also execute iBeacon.py script directly. The args description is below:
         * 6 Byte of two-HEX-character values
         * e.g. "AA BB CC DD EE FF"
 
-![alt text](https://github.com/radicalIT/Beacon_HEX_Generator/blob/master/imgs/name.png "iBecaconName")
 ![alt text](https://github.com/radicalIT/Beacon_HEX_Generator/blob/master/imgs/url.png "iBecaconUrl")
 ![alt text](https://github.com/radicalIT/Beacon_HEX_Generator/blob/master/imgs/uid.png "iBecaconUID")
