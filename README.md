@@ -1,26 +1,11 @@
 # Beacon_HEX_Generator
-
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
-
-Alternatively, for H1 and H2, an underline-ish style:
-
-Alt-H1
-======
-
-Alt-H2
-------
         
-        To run script You must set up a few arguments:
+##        To run script You must set up a few arguments:
 
         1. Type of message to generate, possible options are:
-            0: UUID + Major + Minor
-            1: URL
-            2: NameID + IstanceID
+#            0: UUID + Major + Minor
+#            1: URL
+#            2: NameID + IstanceID
 
         2. Arguments depends of first choice:
             For 0:
