@@ -9,6 +9,13 @@ And execute them in terminal to make our Raspberry Pi discoverable as Beacon.
 
 ### You can use this script in 2 ways:
 
+#### 1. Using setup.py
+
+The easiest way to generate HEX code is by setup.py script. This special script which generate command which execute iBeacon.py script with suitable args. 
+
+#### 2. Using command args
+
+You can also execute iBeacon.py script directly. The args description is below:
 
 ### To run script You must set up a few arguments:
 
@@ -35,7 +42,7 @@ And execute them in terminal to make our Raspberry Pi discoverable as Beacon.
 
         - Url
             Url address to display
-            Max. 16 chars ( $ count as 1 char )
+            Max. 16 chars ( '$' is count as 1 char )
             Use $ to insert sufix
             e.g. 'facebook$me' with suffix 0 mean facebook.com/me
         - Url prefix
