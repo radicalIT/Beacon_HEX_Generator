@@ -9,9 +9,9 @@
 
         2. Arguments depends of first choice:
             For 0:
-                ```python
+```bash
                 e.g. iBeacon.py 0 "63 6F 3F 8F 64 91 4B EE 95 F7 D8 CC 64 A8 63 B5" 3000 4567
-                ```
+```
                 - UID
                     16 Byte of two-HEX-character values
                     e.g. "63 6F 3F 8F 64 91 4B EE 95 F7 D8 CC 64 A8 63 B5"
