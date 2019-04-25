@@ -11,7 +11,7 @@ And execute them in terminal to make our Raspberry Pi discoverable as Beacon.
 
 #### 1. Using setup.py
 
-The easiest way to generate HEX code is by setup.py script. This special script which generate command which execute iBeacon.py script with suitable args. 
+The easiest way to generate HEX code is to use setup.py script. This special script which generate command which execute iBeacon.py script with suitable args. 
 
 #### 2. Using command args
 
