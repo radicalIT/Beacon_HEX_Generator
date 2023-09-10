@@ -43,7 +43,7 @@ You can also execute iBeacon.py script directly. The args description is below:
 ![alt text](https://github.com/radicalIT/Beacon_HEX_Generator/blob/master/imgs/url.png "iBecaconUrl")
     >e.g.    iBeacon.py 1 "facebook$me" 1 0  
     
-    mean    https//www.facebook.com/me
+    mean    https://www.facebook.com/me
 
     - Url  
         * Url address to display  
